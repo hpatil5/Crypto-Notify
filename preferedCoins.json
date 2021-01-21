@@ -1,0 +1,72 @@
+[
+    { 
+        "id" : "zilliqa",
+        "symbol" : "zil",
+        "name" : "Zilliqa"
+    },
+    { 
+        "id" : "theta-token",
+        "symbol" : "theta",
+        "name" : "Theta Network"
+    },
+    { 
+        "id" : "vechain",
+        "symbol" : "vet",
+        "name" : "Vechain"
+    },
+    { 
+        "id" : "chainlink",
+        "symbol" : "link",
+        "name" : "Chainlink"
+    },
+    { 
+        "id" : "polkadot",
+        "symbol" : "dot",
+        "name" : "Polkadot"
+    },
+    { 
+        "id" : "havven",
+        "symbol" : "snx",
+        "name" : "Synthetix Network Token"
+    },
+    { 
+        "id" : "republic-protocol",
+        "symbol" : "ren",
+        "name" : "REN"
+    },
+    { 
+        "id" : "cardano",
+        "symbol" : "ada",
+        "name" : "Cardano"
+    },
+    { 
+        "id" : "ethereum",
+        "symbol" : "eth",
+        "name" : "Ethereum"
+    },
+    { 
+        "id" : "stellar",
+        "symbol" : "xlm",
+        "name" : "Stellar"
+    },
+    { 
+        "id" : "loopring",
+        "symbol" : "lrc",
+        "name" : "Loopring"
+    },
+    { 
+        "id" : "bitcoin",
+        "symbol" : "btc",
+        "name" : "Bitcoin"
+    },
+    { 
+        "id" : "dogecoin",
+        "symbol" : "doge",
+        "name" : "Dogecoin"
+    },
+    { 
+        "id" : "sushi",
+        "symbol" : "sushi",
+        "name" : "Sushi"
+    }
+]

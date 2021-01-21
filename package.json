@@ -1,0 +1,24 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "coingecko-api": "^1.0.10"
+  },
+  "name": "crypto-notify",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpatil5/Crypto-Notify.git"
+  },
+  "author": "hpatil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpatil5/Crypto-Notify/issues"
+  },
+  "homepage": "https://github.com/hpatil5/Crypto-Notify#readme"
+}
