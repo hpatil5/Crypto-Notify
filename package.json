@@ -2,7 +2,9 @@
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
-    "coingecko-api": "^1.0.10"
+    "axios": "^0.21.1",
+    "coingecko-api": "^1.0.10",
+    "mongodb": "^3.6.3"
   },
   "name": "crypto-notify",
   "description": "",
